@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wack-A-Mole</string>
+    <string name="user">Usuario</string>
+    <string name="jugar">Jugar</string>
+    <string name="puntos">Puntos</string>
+    <string name="tiempo">Tiempo</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="records">Records</string>
+    <string name="error">Debe ingresar un nombre de usuario</string>
+</resources>
